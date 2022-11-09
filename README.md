@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanihka&label=Profile%20views&color=0e75b6&style=flat" alt="tanihka" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS ,tailwind, React Js**
+- 💬 Ask me about **HTML, CSS ,tailwind, React Js, C++**
 
 - 📫 How to reach me **taanishkag078@gmail.com**
 
