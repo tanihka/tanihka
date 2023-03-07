@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanihka&label=Profile%20views&color=0e75b6&style=flat" alt="tanihka" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
+- I'm passionate about web development and enjoy building websites for both desktop and mobile platforms. I have a strong desire to expand my knowledge daily in order to improve user experience, testing, and performance. 
 
 - 💬 Ask me about **HTML, CSS, tailwind CSS, Java Script, React JS, C++, PHP, SQL, DBMS**
 
