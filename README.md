@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - I'm passionate about web development and enjoy building websites for both desktop and mobile platforms. I have a strong desire to expand my knowledge daily in order to improve user experience, testing, and performance. 
 
-- 💬 Ask me about **HTML, CSS, tailwind CSS, Java Script, React JS, C++, PHP, SQL, DBMS**
+- 💬 Ask me about **HTML, CSS, tailwind CSS, Java Script, React JS, Express JS, Node JS C++, PHP, SQL, DBMS**
 
 - 📫 How to reach me **taanishkag078@gmail.com**
 
