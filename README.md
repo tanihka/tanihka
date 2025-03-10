@@ -1,12 +1,12 @@
 [![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tanishka Gupta</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">🚀 Backend Developer | 1.5+ Years of Experience</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanihka&label=Profile%20views&color=0e75b6&style=flat" alt="tanihka" /> </p>
 
 - 🌱 I’m **MERN Stack Developer**
-- I'm passionate about web development and enjoy building websites for both desktop and mobile platforms. I have a strong desire to expand my knowledge daily in order to improve user experience, testing, and performance. 
+- I specialize in building and optimizing high-performance backend systems using Node.js, Express, and MongoDB. With hands-on experience in microservice architecture, API development, and scalable deployments, I deliver efficient, secure, and production-ready solutions.
 
 - 💬 Ask me about **Javascript, ReactJS, ExpressJS, NodeJS, MongoDB, HTML, CSS, C++, SQL, DBMS, AWS, Docker**
 
