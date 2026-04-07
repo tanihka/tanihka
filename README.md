@@ -1,6 +1,6 @@
 [![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tanishka Gupta</h1>
-<h3 align="center">🚀 Backend Developer | 1.5+ Years of Experience</h3>
+<h3 align="center">🚀 Backend Developer | 2.5+ Years of Experience</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanihka&label=Profile%20views&color=0e75b6&style=flat" alt="tanihka" /> </p>
